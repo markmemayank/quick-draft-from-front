@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Quick Draft
-Plugin URI: http://example.com/quick-draft
+Plugin URI: Updating soon
 Description: Allows users to create a quick draft from the front end of the website.
-Version: 1.0
+Version: 1.0.1
 Author: Mayank Kumar
 Author URI: http://example.com
 License: GPL2
